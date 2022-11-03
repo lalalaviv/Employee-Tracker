@@ -38,6 +38,10 @@ Because this application won’t be deployed, you’ll also need to create a wal
 
  To use the application locally please clone the repo to your local environment.
  <br/>
+ To view database from MySQL run the following command: 
+ ```bash
+ mysql -u root -p
+ ````
  The application will be invoked by using the following command:
 
   ```bash
