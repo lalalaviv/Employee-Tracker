@@ -82,7 +82,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 The following video shows an example of the application being used from the command line:
 
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
+[![A video showing the command-line employee management application walkthrough.](https://user-images.githubusercontent.com/106384519/199663880-625cbe79-c127-4a0f-9ea3-832cff492902.mp4)
 
 
 
