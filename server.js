@@ -64,7 +64,7 @@ function startPrompt() {
                 viewAllRoles();
                 break;
 
-            case "View all Employees By Deparments":
+            case "View all Employees by Department":
                 viewEmployeeDepartments();
                 break;
 
